@@ -1,0 +1,24 @@
+{
+    "name": "matheusdeveloperphp/microservice-common",
+    "description": "Packages Files Utils Microservices",
+    "type": "library",
+    "license": "MIT",
+    "authors": [
+        {
+            "name": "Matheus Soares Lima"
+        }
+    ],
+    "require": {},
+    "autoload": {
+        "psr-4": {
+            "Matheusdeveloperphp\\MicroserviceCommon\\": "src/"
+        }
+    },
+    "autoload-dev": {
+        "psr-4": {
+            "Tests\\": "tests/"
+        }
+    },
+    "minimum-stability": "dev",
+    "prefer-stable": true
+}
