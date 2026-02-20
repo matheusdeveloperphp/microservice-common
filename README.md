@@ -3,5 +3,5 @@
 Common Files Course
 
 ```bash
-composer require carlosfgti/microservices-common
+composer require matheusdeveloperphp/microservice-common
 ```
