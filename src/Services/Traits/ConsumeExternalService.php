@@ -5,7 +5,7 @@ namespace Matheusdeveloperphp\MicroserviceCommon\Services\Traits;
 use Illuminate\Http\Client\PendingRequest;
 use Illuminate\Support\Facades\Http;
 
-class ConsumeExternalService
+trait ConsumeExternalService
 {
 
     protected $url;
