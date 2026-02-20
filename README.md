@@ -1,4 +1,4 @@
-# Common Files Microservices - ETI Course
+# Common Files Microservices
 
 Common Files Course
 
